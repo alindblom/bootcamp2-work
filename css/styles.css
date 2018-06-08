@@ -87,3 +87,11 @@ p {
 .contact-container {
 	margin: 30px 0;
 }
+
+.google-map-md.embed-responsive-4by3 {
+	padding-bottom: 40%;
+}
+
+.google-map-sm.embed-responsive-4by3 {
+	padding-bottom: 70%;
+}
