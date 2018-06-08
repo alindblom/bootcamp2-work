@@ -14,3 +14,37 @@ p {
 }
 
 /* PLACE YOUR CUSTOM CODE HERE */
+.petstore-logo {
+	height: 25px;
+	margin-top: 10px;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar-brand {
+	font-family: 'Satisfy', cursive;
+	font-size: 40px;
+}
+
+.jumbotron {
+	background-image: url("../img/hero.jpg");
+	background-size: cover;
+	padding: 100px 0 150px 0;
+}
+
+.jumbotron container h3 {
+	color: #fff;
+}
+
+.footer {
+	background-color: #111;
+	color: #fff;
+	padding: 15px 0;
+}
+
+.jumbotron-text {
+	margin: 100px 0 0 0;
+	color: #fff;
+}
