@@ -15,7 +15,7 @@ p {
 
 /* PLACE YOUR CUSTOM CODE HERE */
 .petstore-logo {
-	height: 25px;
+	height: 30px;
 	margin-top: 10px;
 }
 
@@ -23,9 +23,10 @@ p {
 	margin-bottom: 0;
 }
 
-.navbar-brand {
+.navbar-default .navbar-brand {
 	font-family: 'Satisfy', cursive;
-	font-size: 40px;
+	font-size: 30px;
+	color: #f27878;
 }
 
 .jumbotron {
@@ -34,17 +35,55 @@ p {
 	padding: 100px 0 150px 0;
 }
 
+.jumbotron-text {
+	margin: 50px auto;
+	color: #fff;
+}
+
 .jumbotron container h3 {
 	color: #fff;
+}
+
+.cat-toys, .dog-toys {
+	padding: 20px 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.cat-toys h2, .dog-toys h2 {
+	font-weight: 700;
+}
+
+.glyphicon-heart-empty {
+	font-size: 25px;
+
+}
+
+.footer-cards {
+	background-color: #dce6f7;
+	padding: 30px 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.footer-cards h3 {
+	font-weight: 700;
 }
 
 .footer {
 	background-color: #111;
 	color: #fff;
-	padding: 15px 0;
+	padding: 30px 0;
 }
 
-.jumbotron-text {
-	margin: 100px 0 0 0;
-	color: #fff;
+/* contact page css  */
+
+.contact-info {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.contact-info h2 {
+	font-weight: 700;
+}
+
+.contact-container {
+	margin: 30px 0;
 }
