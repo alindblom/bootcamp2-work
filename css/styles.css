@@ -89,6 +89,10 @@ p {
   color: #fff;
 }
 
+.carousel-inner {
+  height: 400px;
+}
+
 /* contact page css  */
 
 .contact-info {
